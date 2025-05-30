@@ -1,8 +1,18 @@
 # Nicola Macchioni
 
-- 🔭 Master’s Degree in Physics at UniFe. Thesis "Implementing Deep Neural Networks for in-situ crop yield prediction", developing a deep learning model using UAV-based RGB imagery for yield prediction of wheat fields.
-- 🎓 Bachelor’s Degree in Physics at Unife. Thesis "Strange quark matter and a possible new category of white dwarfs: strange dwarfs", computational analysis on the stability of strange matter and its implications for compact stars.
-- 👯 Interests: Machine learning, deep learning, precision agriculture, environmental physics.  
-- 💬 About me: Avid reader and movie enthusiast, passionate about football.
-- 📫 How to reach me: [nicola.macchioni01@gmail.com](mailto:nicola.macchioni01@gmail.com)
+- 🎓 **Master’s Degree in Physics** – University of Ferrara  
+  **Thesis:** *"Implementing Deep Neural Networks for In-situ Crop Yield Prediction"*  
+  Developed a deep learning model using UAV-based RGB imagery to estimate wheat yield.
+
+- 🎓 **Bachelor’s Degree in Physics** – University of Ferrara  
+  **Thesis:** *"Strange Quark Matter and a Possible New Category of White Dwarfs: Strange Dwarfs"*  
+  Conducted computational analysis on the stability of strange matter and its astrophysical implications.
+
+- 🌍 **Interests:** Earth observation, machine learning, deep learning, generative AI, physics
+
+- 👨‍💻 **About me:** Currently working as an Earth Observation Data Scientist at MEEO Srl (Ferrara).  
+  Avid reader, movie lover, and passionate football fan.
+
+- 📬 **Contact:** [nicola.macchioni01@gmail.com](mailto:nicola.macchioni01@gmail.com)
+
 
